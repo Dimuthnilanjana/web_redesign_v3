@@ -67,13 +67,22 @@ const Preloader = () => {
                     initial={{ y: 0, opacity: 1 }}
                     animate={textControls}
                 >
+                    <motion.span>D</motion.span>
+                    <motion.span>I</motion.span>
+                    <motion.span>M</motion.span>
+                    <motion.span>U</motion.span>
+                    <motion.span>T</motion.span>
+                    <motion.span>H</motion.span>
+                    <motion.span></motion.span>
+                    <motion.span>N</motion.span>
+                    <motion.span>I</motion.span>
                     <motion.span>L</motion.span>
-                    <motion.span>o</motion.span>
-                    <motion.span>a</motion.span>
-                    <motion.span>d</motion.span>
-                    <motion.span>i</motion.span>
-                    <motion.span>n</motion.span>
-                    <motion.span>g</motion.span>
+                    <motion.span>A</motion.span>
+                    <motion.span>N</motion.span>
+                    <motion.span>J</motion.span>
+                    <motion.span>A</motion.span>
+                    <motion.span>N</motion.span>
+                    <motion.span>A</motion.span>
                 </motion.div>
             </div>
         </motion.div>
