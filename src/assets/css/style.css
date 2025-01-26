@@ -2626,8 +2626,8 @@ body.loaded {
 }
 
 .load-text span {
-    -webkit-animation: loading 1s infinite alternate;
-    animation: loading 1s infinite alternate;
+    -webkit-animation: Dimuth 1s infinite alternate;
+    animation: Dimuth 1s infinite alternate;
 }
 
 .load-text span:nth-child(1) {

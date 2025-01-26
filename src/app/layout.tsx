@@ -7,8 +7,8 @@ import ScrollToTop from "@/components/sections/scrollToTop";
 import BootstrapForBrowser from "@/components/sections/bootstrapForBrowser";
 
 export const metadata: Metadata = {
-  title: "Designpro - Productized Design Agency website template",
-  description: "Designpro - Productized Design Agency website template",
+  title: "Dimuth Nilanjana",
+  description: "Dimuth Nilanjana",
   keywords: "personal, portfolio new, html, one page, bootstrap, new html template, design, creative, onepage, clean, modern"
 };
 
